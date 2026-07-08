@@ -1,0 +1,27 @@
+{
+  "colors": {
+    "background": "#F7F5F2",
+    "primary": "#222222",
+    "secondary": "#666666",
+    "accent": "#4A6A52",
+    "accentHover": "#35503D",
+    "brown": "#B88A44",
+    "border": "#EAEAEA",
+    "white": "#FFFFFF",
+    "footerBg": "#1A1A1A",
+    "footerText": "#ABABAB"
+  },
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Inter"
+  },
+  "borderRadius": {
+    "button": "9999px",
+    "card": "16px",
+    "input": "12px",
+    "image": "16px"
+  },
+  "spacing": {
+    "sectionPadding": "96px"
+  }
+}

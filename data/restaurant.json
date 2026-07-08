@@ -1,0 +1,76 @@
+{
+  "name": "Fusspots Cafe",
+  "tagline": "A cosy country café on Waterfall Way.",
+  "description": "Located in the beautiful village of Ebor on the famous Waterfall Way, Fusspots Cafe is a favourite stop for locals and travellers alike.\n\nKnown for freshly brewed coffee, homemade cakes, hearty breakfasts and warm country hospitality, the café provides a relaxing place to unwind before or after visiting Ebor Falls.\n\nWhether you're passing through on a road trip or spending time exploring the New England region, Fusspots Cafe offers delicious food, friendly service and a welcoming atmosphere.",
+  "shortDescription": "Freshly brewed coffee, homemade cakes & hearty breakfasts on the Waterfall Way, Ebor NSW.",
+  "established": null,
+  "logo": {
+    "text": "Fusspots Cafe",
+    "image": null
+  },
+  "heroImage": "/images/fusspots-exterior.png",
+  "aboutImage": "/images/fusspots-bar.png",
+  "ogImage": "/images/fusspots-exterior.png",
+  "address": {
+    "street": "33 Ebor St",
+    "suburb": "Ebor",
+    "state": "NSW",
+    "postcode": "2453",
+    "country": "Australia",
+    "full": "33 Ebor St, Ebor NSW 2453"
+  },
+  "contact": {
+    "phone": "+61 2 6775 9299",
+    "phoneDisplay": "(02) 6775 9299",
+    "email": ""
+  },
+  "hours": [
+    { "days": "Monday", "hours": "9:00am – 2:00pm" },
+    { "days": "Tuesday", "hours": "Closed" },
+    { "days": "Wednesday", "hours": "Closed" },
+    { "days": "Thursday", "hours": "9:00am – 2:00pm" },
+    { "days": "Friday", "hours": "9:00am – 2:00pm" },
+    { "days": "Saturday", "hours": "8:00am – 3:00pm" },
+    { "days": "Sunday", "hours": "8:00am – 3:00pm" }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "googleMapsEmbed": "https://maps.google.com/maps?q=Fusspots+at+Ebor,+33+Ebor+St,+Ebor+NSW+2453,+Australia&output=embed&z=16",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fusspots+at+Ebor,+33+Ebor+St,+Ebor+NSW+2453,+Australia",
+  "reservationUrl": "",
+  "aboutFeatures": [
+    {
+      "icon": "Leaf",
+      "title": "Fresh & Honest Food",
+      "description": "Simple, quality ingredients prepared fresh each morning."
+    },
+    {
+      "icon": "Heart",
+      "title": "Warm Country Welcome",
+      "description": "Friendly, genuine service in a relaxed atmosphere that feels like home."
+    },
+    {
+      "icon": "Star",
+      "title": "Local Favourite",
+      "description": "A beloved stop for locals and travellers exploring the Ebor region."
+    }
+  ],
+  "seo": {
+    "title": "Fusspots Cafe | Breakfast & Coffee in Ebor NSW",
+    "description": "Located on the Waterfall Way in Ebor NSW, Fusspots Cafe serves freshly brewed coffee, homemade cakes and hearty breakfasts. The perfect stop near Ebor Falls. Open Mon, Thu–Sun.",
+    "keywords": [
+      "Fusspots Cafe Ebor",
+      "cafe Ebor NSW",
+      "breakfast Ebor NSW",
+      "coffee Ebor",
+      "cafe near Ebor Falls",
+      "New England NSW cafe",
+      "country cafe NSW",
+      "Ebor restaurant"
+    ],
+    "canonicalUrl": "https://fusspots-at-ebor.edan.io"
+  }
+}

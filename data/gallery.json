@@ -1,0 +1,68 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "src": "/images/fusspots-exterior.png",
+      "alt": "Fusspots Cafe exterior on Ebor St — Tea, Coffee, Homemade Food",
+      "width": 1280,
+      "height": 853,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "src": "/images/fusspots-bar.png",
+      "alt": "The coffee bar at Fusspots Cafe",
+      "width": 1270,
+      "height": 952,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "src": "/images/fusspots-food.png",
+      "alt": "Food at Fusspots Cafe — scones, tea, eggs benedict and big breakfast",
+      "width": 784,
+      "height": 960,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "src": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=700&q=85",
+      "alt": "Freshly poured flat white coffee",
+      "width": 700,
+      "height": 1050,
+      "featured": false
+    },
+    {
+      "id": 5,
+      "src": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=700&q=85",
+      "alt": "Freshly baked scones with jam and cream",
+      "width": 700,
+      "height": 467,
+      "featured": false
+    },
+    {
+      "id": 6,
+      "src": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=700&q=85",
+      "alt": "Hearty country breakfast",
+      "width": 700,
+      "height": 525,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "src": "https://images.unsplash.com/photo-1548365328-8c6db3220e4c?w=700&q=85",
+      "alt": "Homemade cakes at Fusspots Cafe",
+      "width": 700,
+      "height": 467,
+      "featured": false
+    },
+    {
+      "id": 8,
+      "src": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=700&q=85",
+      "alt": "Cosy cafe interior with warm light",
+      "width": 700,
+      "height": 525,
+      "featured": false
+    }
+  ]
+}

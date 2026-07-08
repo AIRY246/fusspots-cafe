@@ -1,0 +1,201 @@
+{
+  "categories": ["Breakfast", "Lunch", "Desserts", "Drinks"],
+  "currency": "A$",
+  "items": [
+    {
+      "id": 1,
+      "category": "Breakfast",
+      "name": "Big Breakfast",
+      "description": "Eggs your way, bacon, sausage, grilled tomato, mushrooms, baked beans and toast",
+      "price": 18,
+      "image": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=600&q=80",
+      "signature": false,
+      "dietary": []
+    },
+    {
+      "id": 2,
+      "category": "Breakfast",
+      "name": "Bacon & Egg Roll",
+      "description": "Crispy bacon, fried egg and your choice of sauce on a soft fresh roll",
+      "price": 10,
+      "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?w=600&q=80",
+      "signature": true,
+      "dietary": []
+    },
+    {
+      "id": 3,
+      "category": "Breakfast",
+      "name": "Eggs Benedict",
+      "description": "Poached eggs and ham on an English muffin, topped with hollandaise sauce",
+      "price": 17,
+      "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=600&q=80",
+      "signature": false,
+      "dietary": []
+    },
+    {
+      "id": 4,
+      "category": "Breakfast",
+      "name": "Toast",
+      "description": "Thick-cut toast served with your choice of spread — butter, jam or Vegemite",
+      "price": 6,
+      "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600&q=80",
+      "signature": false,
+      "dietary": ["V"]
+    },
+    {
+      "id": 5,
+      "category": "Lunch",
+      "name": "Burger",
+      "description": "Beef patty, lettuce, tomato, pickles, cheese and house sauce in a toasted bun",
+      "price": 17,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600&q=80",
+      "signature": false,
+      "dietary": []
+    },
+    {
+      "id": 6,
+      "category": "Lunch",
+      "name": "Steak Sandwich",
+      "description": "Grilled steak, caramelised onion, lettuce, tomato and aioli on toasted bread",
+      "price": 18,
+      "image": "https://images.unsplash.com/photo-1481070414801-51fd732d7184?w=600&q=80",
+      "signature": false,
+      "dietary": []
+    },
+    {
+      "id": 7,
+      "category": "Lunch",
+      "name": "Fish & Chips",
+      "description": "Battered fish fillet, golden chips, tartare sauce and a wedge of lemon",
+      "price": 18,
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&q=80",
+      "signature": false,
+      "dietary": []
+    },
+    {
+      "id": 8,
+      "category": "Lunch",
+      "name": "Toasties",
+      "description": "Classic toasted sandwich — ham & cheese, or ask about today's filling",
+      "price": 10,
+      "image": "https://images.unsplash.com/photo-1528736235302-52922df5c122?w=600&q=80",
+      "signature": false,
+      "dietary": []
+    },
+    {
+      "id": 9,
+      "category": "Desserts",
+      "name": "Homemade Cakes",
+      "description": "A rotating selection of freshly baked cakes made in-house — ask your server what's on today",
+      "price": 7,
+      "image": "https://images.unsplash.com/photo-1548365328-8c6db3220e4c?w=600&q=80",
+      "signature": true,
+      "dietary": ["V"]
+    },
+    {
+      "id": 10,
+      "category": "Desserts",
+      "name": "Scones",
+      "description": "Freshly baked scones served warm with jam and cream",
+      "price": 6,
+      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=600&q=80",
+      "signature": true,
+      "dietary": ["V"]
+    },
+    {
+      "id": 11,
+      "category": "Desserts",
+      "name": "Banana Bread",
+      "description": "Moist house-baked banana bread, served warm with butter",
+      "price": 6,
+      "image": "https://images.unsplash.com/photo-1619997975000-70f3c68eba78?w=600&q=80",
+      "signature": true,
+      "dietary": ["V"]
+    },
+    {
+      "id": 12,
+      "category": "Desserts",
+      "name": "Muffins",
+      "description": "Freshly baked muffins — flavours change daily, always delicious",
+      "price": 5,
+      "image": "https://images.unsplash.com/photo-1607958996333-41aef7caefaa?w=600&q=80",
+      "signature": false,
+      "dietary": ["V"]
+    },
+    {
+      "id": 13,
+      "category": "Drinks",
+      "name": "Flat White",
+      "description": "Double espresso with velvety steamed milk and silky microfoam",
+      "price": 5,
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "signature": true,
+      "dietary": []
+    },
+    {
+      "id": 14,
+      "category": "Drinks",
+      "name": "Cappuccino",
+      "description": "Espresso, steamed milk and thick velvety foam, dusted with chocolate",
+      "price": 5,
+      "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=600&q=80",
+      "signature": false,
+      "dietary": []
+    },
+    {
+      "id": 15,
+      "category": "Drinks",
+      "name": "Latte",
+      "description": "Smooth espresso with generous steamed milk and a light layer of foam",
+      "price": 5,
+      "image": "https://images.unsplash.com/photo-1561882468-9110d70d2f66?w=600&q=80",
+      "signature": false,
+      "dietary": []
+    },
+    {
+      "id": 16,
+      "category": "Drinks",
+      "name": "Chai Latte",
+      "description": "Spiced chai concentrate with steamed milk — warming, fragrant and comforting",
+      "price": 5,
+      "image": "https://images.unsplash.com/photo-1564890369478-c89ca3d9cfe5?w=600&q=80",
+      "signature": true,
+      "dietary": ["V"]
+    },
+    {
+      "id": 17,
+      "category": "Drinks",
+      "name": "Milkshake",
+      "description": "Thick and creamy milkshake — chocolate, strawberry or vanilla",
+      "price": 8,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=600&q=80",
+      "signature": false,
+      "dietary": ["V"]
+    },
+    {
+      "id": 18,
+      "category": "Drinks",
+      "name": "Tea",
+      "description": "Classic English Breakfast or herbal tea, served with milk and your choice of sweetener",
+      "price": 4,
+      "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=600&q=80",
+      "signature": false,
+      "dietary": ["VG", "GF"]
+    },
+    {
+      "id": 19,
+      "category": "Drinks",
+      "name": "Hot Chocolate",
+      "description": "Rich and creamy hot chocolate, made with real cocoa and steamed milk",
+      "price": 5,
+      "image": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?w=600&q=80",
+      "signature": false,
+      "dietary": ["V"]
+    }
+  ],
+  "dietaryLegend": {
+    "V": "Vegetarian",
+    "VG": "Vegan",
+    "GF": "Gluten Free"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "rating": 4.1,
+  "totalReviews": 483,
+  "platform": "Google",
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Sarah T",
+      "initials": "ST",
+      "rating": 5,
+      "date": "2024-11-08",
+      "dateDisplay": "November 2024",
+      "text": "Perfect halfway stop between Armidale and Coffs Harbour. Amazing coffee and the bacon & egg roll was exactly what we needed. Staff were lovely. Will definitely stop again.",
+      "avatar": null
+    },
+    {
+      "id": 2,
+      "name": "Mark R",
+      "initials": "MR",
+      "rating": 5,
+      "date": "2024-10-19",
+      "dateDisplay": "October 2024",
+      "text": "Wonderful homemade cakes and friendly staff. We stopped in on a Saturday morning and were made to feel so welcome. Definitely worth stopping by if you're travelling through.",
+      "avatar": null
+    },
+    {
+      "id": 3,
+      "name": "Julie H",
+      "initials": "JH",
+      "rating": 5,
+      "date": "2024-09-27",
+      "dateDisplay": "September 2024",
+      "text": "Great coffee. Relaxed atmosphere. Perfect stop before visiting Ebor Falls. The scones were incredible — light, fluffy and served with proper jam and cream. Highly recommend.",
+      "avatar": null
+    },
+    {
+      "id": 4,
+      "name": "Peter & Wendy C",
+      "initials": "PC",
+      "rating": 5,
+      "date": "2024-09-05",
+      "dateDisplay": "September 2024",
+      "text": "The scones were light and fluffy, the tea was excellent and the country hospitality made us feel right at home. A real gem on the Waterfall Way. We'll be back every time we drive through.",
+      "avatar": null
+    },
+    {
+      "id": 5,
+      "name": "Natalie B",
+      "initials": "NB",
+      "rating": 5,
+      "date": "2024-08-14",
+      "dateDisplay": "August 2024",
+      "text": "Stopped in for a chai latte and banana bread — both were delicious. Cosy little cafe with a really warm vibe. Exactly the kind of place that makes a long drive worth it. Loved it.",
+      "avatar": null
+    },
+    {
+      "id": 6,
+      "name": "David L",
+      "initials": "DL",
+      "rating": 4,
+      "date": "2024-07-22",
+      "dateDisplay": "July 2024",
+      "text": "Good honest country cafe food at very fair prices. The big breakfast was generous and the coffee was better than expected for such a small town. Note the limited hours — check before you go.",
+      "avatar": null
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "icon": "Coffee",
+      "title": "Seriously Good Coffee",
+      "description": "We take our coffee seriously — expect well-pulled espresso and quality milk drinks every time."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Fresh, Honest Food",
+      "description": "Simple quality ingredients, prepared fresh each morning. No shortcuts, just good food."
+    },
+    {
+      "icon": "MapPin",
+      "title": "Gateway to Ebor Falls",
+      "description": "The perfect fuel stop before or after visiting the stunning Ebor Falls and Guy Fawkes River National Park."
+    },
+    {
+      "icon": "Heart",
+      "title": "Genuine Country Hospitality",
+      "description": "Warm, unhurried service that makes everyone feel welcome — locals and travellers alike."
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "Do I need to book a table?",
+      "answer": "No bookings needed — we're a walk-in cafe. Just come on in! On busy weekends we can get full, so arriving a little early is always a good idea."
+    },
+    {
+      "id": 2,
+      "question": "Do you cater for dietary requirements?",
+      "answer": "Yes, we have vegetarian and gluten-free options on the menu, all clearly marked. If you have a specific allergy or dietary need, just let your server know and we'll do our best to help."
+    },
+    {
+      "id": 3,
+      "question": "Is there parking available?",
+      "answer": "Yes, there's free street parking right outside and along Ebor St. Ebor is a small village so parking is never a problem."
+    },
+    {
+      "id": 4,
+      "question": "Are you open every day?",
+      "answer": "We're open Monday, Thursday, Friday, Saturday, and Sunday. We're closed on Tuesdays and Wednesdays. Saturday and Sunday hours are 8:00am–3:00pm; all other open days are 9:00am–2:00pm."
+    },
+    {
+      "id": 5,
+      "question": "Do you offer takeaway?",
+      "answer": "Absolutely! All of our food and drinks are available to take away. Just let us know at the counter and we'll have it ready for you to go."
+    },
+    {
+      "id": 6,
+      "question": "How close are you to Ebor Falls?",
+      "answer": "We're right in the centre of Ebor village, just a short drive from the famous Ebor Falls lookout in Guy Fawkes River National Park. We're the perfect pit stop before or after your visit!"
+    },
+    {
+      "id": 7,
+      "question": "What's the best time to visit?",
+      "answer": "Weekday mornings (Mon, Thu, Fri) tend to be quieter. Saturday and Sunday mornings from about 9am can get busy, especially during school holidays when tourist traffic picks up. We open an hour earlier on weekends (8:00am) to get you on your way."
+    }
+  ]
+}
